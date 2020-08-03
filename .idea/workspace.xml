@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0592d039-8c11-4d66-b8c2-9d62a051f249" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/myfile.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fZHOWrlBSVBNSi6WKWItqjJ7GG" />
@@ -21,7 +26,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -34,11 +41,31 @@
       <option name="presentableId" value="Default" />
       <updated>1596418663180</updated>
       <workItem from="1596418664361" duration="80000" />
-      <workItem from="1596418754725" duration="53000" />
+      <workItem from="1596418754725" duration="177000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1596418887041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596418887041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="107" key="CommitChangelistDialog2" timestamp="1596418886326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="107" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596418886326" />
   </component>
 </project>
